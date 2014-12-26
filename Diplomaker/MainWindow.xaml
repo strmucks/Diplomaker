@@ -1,0 +1,93 @@
+﻿<Window x:Name="mainWindow" x:Class="Diplomaker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:common="clr-namespace:Diplomaker"
+        Title="Diplomaker" Height="600" Width="800" Background="White" Icon="Icon.ico" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" WindowStyle="ThreeDBorderWindow">
+    <Grid x:Name="mainGrid" Height="565" Width="785" Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="450" />
+        </Grid.ColumnDefinitions>
+        <Separator x:Name="rangeSeparator" HorizontalAlignment="Left" Height="100" Margin="25,43.836,0,0" VerticalAlignment="Top" Width="270" Visibility="Collapsed" Grid.Row="1"/>
+        <Image x:Name="preResultImage" Grid.RowSpan="8" Grid.Column="1" HorizontalAlignment="Left" Width="435"  Height="525" VerticalAlignment="Top" />
+        <Button x:Name="backgroundButton" Content="Select source image" Grid.Column="0" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Width="140" Click="backgroundButton_Click" Foreground="White" RenderTransformOrigin="0.406,1.5" Height="40" FontSize="14">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF09096C" Offset="0.3"/>
+                    <GradientStop Color="#FF0937F9" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="bcgdTextBox" Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" Height="50" TextWrapping="Wrap" VerticalAlignment="Center" Width="300" IsEnabled="False" />
+        <Button x:Name="sourceButton" Content="Select Excel source" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Center" VerticalAlignment="Center" Width="140" Click="sourceButton_Click" Foreground="White" FontSize="14" Height="40" Visibility="Collapsed" common:VisibilityAnimation.AnimationType="Fade" >
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FFF909C6" Offset="1"/>
+                    <GradientStop Color="#FE721074" Offset="0.41"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="sourceTextBox" HorizontalAlignment="Center" Grid.Column="0" Grid.Row="2" Height="50" TextWrapping="Wrap" VerticalAlignment="Center" Width="300" IsEnabled="False" Visibility="Collapsed" common:VisibilityAnimation.AnimationType="Fade" />
+        <!--it is textBox for initialize font in begining and store choosen font from dialog-->
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="5" Margin="10,115,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="5" IsEnabled="False" Visibility="Hidden" FontFamily="Parangon 510C" FontSize="24" Text="This textBox is for font playing" />
+        <TextBlock x:Name="rangeTextBlock" Grid.Column="0" Grid.Row="4" HorizontalAlignment="Center" TextWrapping="Wrap" Text="Excel range" VerticalAlignment="Bottom" IsEnabled="False" FontWeight="Bold" FontSize="24" Visibility="Collapsed" common:VisibilityAnimation.AnimationType="Fade" />
+        <TextBlock x:Name="rangeRowTextBlock" Grid.Column="0" Grid.Row="5" Margin="50,0,0,10" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Text="Row" FontSize="20" Visibility="Collapsed" common:VisibilityAnimation.AnimationType="Fade"/>
+        <ComboBox x:Name="rowComboBox" Grid.Column="0" Grid.Row="5" Margin="60,0,0,10" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" IsReadOnly="True" FontSize="20" Width="45" Visibility="Collapsed" common:VisibilityAnimation.AnimationType="Fade">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2" IsSelected="True"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+            <ComboBoxItem Content="6"/>
+            <ComboBoxItem Content="7"/>
+            <ComboBoxItem Content="8"/>
+            <ComboBoxItem Content="9"/>
+            <ComboBoxItem Content="10"/>
+        </ComboBox>
+        <TextBlock x:Name="rangeColumnTextBlock" Grid.Column="0" Grid.Row="5" HorizontalAlignment="Right" Margin="0,0,50,0" TextWrapping="Wrap" Text="Column" VerticalAlignment="Top" FontSize="20" Visibility="Collapsed" common:VisibilityAnimation.AnimationType="Fade"/>
+        <ComboBox x:Name="columnComboBox" Grid.Column="0" Grid.Row="5" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,65,10" Height="30" Width="45" IsReadOnly="True" FontSize="20" Visibility="Collapsed" common:VisibilityAnimation.AnimationType="Fade">
+            <ComboBoxItem Content="A" IsSelected="True"/>
+            <ComboBoxItem Content="B"/>
+            <ComboBoxItem Content="C"/>
+            <ComboBoxItem Content="D"/>
+            <ComboBoxItem Content="E"/>
+            <ComboBoxItem Content="F"/>
+        </ComboBox>
+        <Button x:Name="fontButton" Grid.Column="0" Grid.Row="6" Content="Font" HorizontalAlignment="Center" VerticalAlignment="Center" Width="140" Click="fontButton_Click" Foreground="White" Height="40" FontSize="14" Visibility="Collapsed" common:VisibilityAnimation.AnimationType="Fade">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF622C09" Offset="0.289"/>
+                    <GradientStop Color="#FFF97009" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="makeButton" Grid.Column="0" Grid.Row="7" Content="Make" HorizontalAlignment="Left" Margin="15,0,0,0" VerticalAlignment="Center" Width="140" Click="makeButton_Click" Foreground="White" Height="40" FontSize="14" Visibility="Collapsed" common:VisibilityAnimation.AnimationType="Fade">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF262A22" Offset="0.257"/>
+                    <GradientStop Color="#FF16F909" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="resetButton" Grid.Column="0" Grid.Row="7" Content="Reset" HorizontalAlignment="Right" Margin="0,0,15,0" VerticalAlignment="Center" Width="140" Foreground="White" Height="40" FontSize="14" Visibility="Collapsed" common:VisibilityAnimation.AnimationType="Fade" Click="resetButton_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" MappingMode="RelativeToBoundingBox" StartPoint="0.5,0">
+                    <GradientStop Color="#FF131329" Offset="0"/>
+                    <GradientStop Color="#FFED1F1F" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <!-- this user control was taken from here http://www.codeproject.com/Articles/38041/WPF-Round-Progress-Bar -->
+        <common:RounderProgressBarControl x:Name="progressBar" Visibility="Hidden" Margin="192,82,193,83" Grid.RowSpan="8" Grid.ColumnSpan="2"></common:RounderProgressBarControl>
+    </Grid>
+</Window>

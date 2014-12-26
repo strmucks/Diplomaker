@@ -1,0 +1,79 @@
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\bin\Debug\Diplomaker.exe.config
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\bin\Debug\Diplomaker.exe
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\bin\Debug\Diplomaker.pdb
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\Diplomaker.csprojResolveAssemblyReference.cache
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\MainWindow.baml
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\MainWindow.g.cs
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\App.g.cs
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\Diplomaker_MarkupCompile.cache
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\Diplomaker.g.resources
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\Diplomaker.Properties.Resources.resources
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\Diplomaker.csproj.GenerateResource.Cache
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\Diplomaker.exe
+c:\users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\Diplomaker.pdb
+C:\Users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\Diplomaker_MarkupCompile.lref
+C:\Users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\FontChooser.g.cs
+C:\Users\xite1_000\documents\visual studio 2013\Projects\Diplomaker\Diplomaker\obj\Debug\FontChooser.baml
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\bin\Debug\Diplomaker.exe.config
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.exe
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.pdb
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\bin\Debug\Diplomaker.exe
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\bin\Debug\Diplomaker.pdb
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.csprojResolveAssemblyReference.cache
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\FontChooser.g.cs
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\MainWindow.g.cs
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\App.g.cs
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker_MarkupCompile.cache
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker_MarkupCompile.lref
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\FontChooser.baml
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\MainWindow.baml
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.g.resources
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.Properties.Resources.resources
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.csproj.GenerateResource.Cache
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\RounderProgressBarControl.baml
+C:\Users\xite1_000\Dropbox\Diplomaker\Diplomaker\obj\Debug\RounderProgressBarControl.g.cs
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\bin\Debug\Diplomaker.exe.config
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.exe
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.pdb
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.csprojResolveAssemblyReference.cache
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\RounderProgressBarControl.baml
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\FontChooser.g.cs
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\MainWindow.g.cs
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\RounderProgressBarControl.g.cs
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\App.g.cs
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker_MarkupCompile.cache
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker_MarkupCompile.lref
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\bin\Debug\Diplomaker.exe
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\bin\Debug\Diplomaker.pdb
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\FontChooser.baml
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\MainWindow.baml
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.g.resources
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.Properties.Resources.resources
+C:\Users\administrator\Dropbox\Diplomaker\Diplomaker\obj\Debug\Diplomaker.csproj.GenerateResource.Cache
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\bin\Debug\Diplomaker.exe.config
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\Diplomaker.exe
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\Diplomaker.pdb
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\bin\Debug\Diplomaker.exe
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\bin\Debug\Diplomaker.pdb
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\Diplomaker.csprojResolveAssemblyReference.cache
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\RounderProgressBarControl.baml
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\FontChooser.g.cs
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\MainWindow.g.cs
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\RounderProgressBarControl.g.cs
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\App.g.cs
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\Diplomaker_MarkupCompile.cache
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\Diplomaker_MarkupCompile.lref
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\FontChooser.baml
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\MainWindow.baml
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\Diplomaker.g.resources
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\Diplomaker.Properties.Resources.resources
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\obj\Debug\Diplomaker.csproj.GenerateResource.Cache
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\bin\Debug\Morpher.API.dll
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\bin\Debug\Morpher.AppConfigFactory.dll
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\bin\Debug\Morpher.Dynamic.dll
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\bin\Debug\Morpher.Generic.dll
+C:\Users\xite1_000\Dropbox\проекты\Diplomaker\Diplomaker\bin\Debug\Morpher.WebService.V2.dll
